@@ -2,7 +2,7 @@
 Ô ăn quan là trò chơi dân gian Việt Nam, trò chơi có cách chơi đơn giản nhưng không kém phần thú vị, lôi cuốn.
 
 ## Screenshots
-[Screenshots](https://imgur.com/a/OsMilVI)
+[Screenshots](https://imgur.com/a/OsMilVI)<br>
 ![App Screenshot](https://i.imgur.com/GGGbcLH.jpeg)
 ![App Screenshot](https://i.imgur.com/14o6T0E.jpeg)
 
@@ -13,8 +13,8 @@ Chương trình có thể mở lên bằng cách biên dịch và chạy các fi
 
 ## Điều khiển
 
-Left, Right - di chuyển và chọn chiều đi
-Spacebar - Khóa lựa chọn ô dân
+- Left, Right - di chuyển và chọn chiều đi
+- Spacebar - Khóa lựa chọn ô dân
     
 ## Luật chơi
 
